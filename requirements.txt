@@ -1,3 +1,4 @@
+# pip install -r requirements.txt
 ipykernel
 numpy
 matplotlib
@@ -12,3 +13,4 @@ torch
 torchvision
 torchsummary
 #torch torchvision --index-url https://download.pytorch.org/whl/cu118
+mediapipe
